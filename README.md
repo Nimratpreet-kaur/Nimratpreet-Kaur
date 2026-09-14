@@ -10,8 +10,8 @@ Welcome to my software development workspace. I use this profile to track my pro
 - 📈 **Version Control Discipline:** Committing to continuous daily tracking habits, semantic commit logs, and flat, professional repository indexing.
 
 ### 📁 Primary Repositories & Workspaces
-- [C Language Fundamentals]() — A centralized, chronologically documented tracking vault showcasing my software engineering logic from day one.
-- [HTML Portfolio]() — Responsive design structure housing baseline personal styling and web layout components.
+- [C Language Fundamentals](https://github.com/Nimratpreet-kaur/C-fundamentals.git) — A centralized, chronologically documented tracking vault showcasing my software engineering logic from day one.
+- [HTML Portfolio](https://github.com/Nimratpreet-kaur/html-portfolio2.git) — Responsive design structure housing baseline personal styling and web layout components.
 
 ---
 
